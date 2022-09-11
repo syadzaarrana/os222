@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-By {{ site.author }}</span>
+By {{ site.author }}
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
