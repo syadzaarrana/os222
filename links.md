@@ -1,9 +1,9 @@
 ---
 permalink: LINKS/
 ---
-## [HOME](https://syadzaarrana.github.io/os222)
+### [HOME](https://syadzaarrana.github.io/os222) - [LOG](https://syadzaarrana.github.io/os222/TXT/mylog.txt) - [GITHUB](https://github.com/syadzaarrana/os222)
 ---
-### LINKS
+#### LINKS
 
 1. [Linux Commands](https://www.geeksforgeeks.org/linux-commands/)<br/>
 This page lists linux commands with its usage. The best part about this page is, each command will redirect to its further explanation and examples when clicked.
