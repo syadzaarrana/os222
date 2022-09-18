@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 
-# [:arrow_left:](https://syadzaarrana.github.io/os222) LINKS
+# LINKS
 
 ### Week 01
 1. [Linux Commands](https://www.geeksforgeeks.org/linux-commands/)<br/>
