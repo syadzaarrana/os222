@@ -27,5 +27,8 @@ This article is a compact guide to data encryption. It covers pretty much all of
 4. [GPG/PGP](https://www.privex.io/articles/what-is-gpg)<br/>
 This article explains what GPG/PGP is and how to use it. It covers key types, key search, key imports, encrypting, and decrypting.
 
-5. [What is Scripting Language?](https://careerkarma.com/blog/what-is-a-scripting-language/) & [Linux Shell and Shell Scripting](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)<br/>
-The first article introduces the scripting language in general terms, including its types, applications, and pros and cons. It also explains the difference between interpreted and compiled programming languages. On the other hand, the second article focuses on shell scripting, in particular the Linux shell. It also includes a demo using Bash Shell to help us understand it better. 
+5. [What is Scripting Language?](https://careerkarma.com/blog/what-is-a-scripting-language/)<br/>
+This article introduces the scripting language in general terms, including its types, applications, pros, and cons. It also explains the difference between interpreted and compiled programming languages.
+
+6. [Linux Shell and Shell Scripting](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)<br/>
+This article focuses on shell scripting, the Linux shell more precisely. It includes a demo using Bash Shell to help us understand it better.
