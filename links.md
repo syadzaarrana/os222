@@ -32,3 +32,6 @@ This article introduces the scripting language in general terms, including its t
 
 6. [Linux Shell and Shell Scripting](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/)<br/>
 This article focuses on shell scripting, the Linux shell more precisely. It includes a demo using Bash Shell to help us understand it better.
+
+7. [What is Checksum?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)
+This article explains checksum in a simple understandable way, includes what checksum is, its importance, and also how the calculation is done.
