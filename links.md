@@ -14,6 +14,12 @@ This page is an introduction to Bash written in a simple language which makes it
 3. [Why vim?](https://missing.csail.mit.edu/2020/editors/)<br/>
 This page is a compact vim explanation. It starts from the basic part and then shows an example of the advanced usage to show the power of this editor, it also comes with other useful resources and even some exercises.
 
+4. [vi Commands](https://www.guru99.com/the-vi-editor.html)<br/>
+A simple compact guide to vi commands.
+
+5. Crash Course: [Operating Systems](https://youtu.be/26QPDBe-NB8) | [Keyboards & Command Line Interfaces](https://youtu.be/4RPtJ9UyHS0)<br/>
+Crash course is a really great youtube channel for learning many things. I highlighted a few videos from their computer science course related to our lesson this week.
+
 ### Week 02
 1. [Cyber Security in 7 Minutes](https://youtu.be/inWWhr5tnEA)<br/>
 This video is a bite-sized introduction to cyber security. It covers the types of cyber attacks and their impact, cyber security practices, and also a little introduction to job roles in this field.
@@ -35,3 +41,16 @@ This article focuses on shell scripting, the Linux shell more precisely. It incl
 
 7. [What is Checksum?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)<br/>
 This article explains checksum in a simple understandable way, includes what checksum is, its importance, and also how the calculation is done.
+
+8. Crash Course: [Cybersecurity](https://youtu.be/bPVaOlJ6ln0) | [Hackers & Cyber Attacks](https://youtu.be/_GzE99AmAQU) | [Cryptography](https://youtu.be/jhXCTbFnK8o)<br/>
+Crash course is a really great youtube channel for learning many things. I highlighted a few videos from their computer science course related to our lesson this week.
+
+### Week 03
+1. [Easy Guide to Linux File System](https://likegeeks.com/linux-file-system/)<br/>
+This article is a great simple guide, it explains each of the various linux file system (ext, ext2, etc) briefly, how to see which one we're using, then explains about top level and all the linux file system directories simply. It also includes a link to a short youtube video version.
+
+2. [Linux File System](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)<br/>
+This article is similar to the first one but includes a chart of the directories for visualization.
+
+3. Crash Course: [Memory & Storage](https://youtu.be/TQCr9RV7twk) | [Files & File Systems](https://youtu.be/KN8YgJnShPM) | [Compression](https://youtu.be/OtDxDvCpPL4)<br/>
+Crash course is a really great youtube channel for learning many things. I highlighted a few videos from their computer science course related to our lesson this week. 
