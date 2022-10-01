@@ -59,7 +59,7 @@ Crash course is a really great youtube channel for learning many things. I highl
 1. [Beginner's Guide on Linux Memory Management](https://www.golinuxcloud.com/tutorial-linux-memory-management-overview/) | [Linux Memory Management](https://www.javatpoint.com/linux-memory-management)<br/>
 These two articles talk about linux memory management, from basic concept to paging and swapping.
 
-2.[Basics of Programming with C](https://opensource.com/article/20/8/c-programming-cheat-sheet) | [Write and Run C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br/>
+2. [Basics of Programming with C](https://opensource.com/article/20/8/c-programming-cheat-sheet) | [Write and Run C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br/>
 The first article explains all the basic knowledge we need to know working with C and the second article is a step-by-step tutorial on how to actually write and run it in linux. Both include screenshot example to make it easier.
 
 3. [C pointers (1)](https://www.w3schools.com/c/c_pointers.php) | [C pointers (2)](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/) | [C pointers (3)](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br/>
