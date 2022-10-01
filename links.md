@@ -52,5 +52,21 @@ This article is a great simple guide, it explains each of the various linux file
 2. [Linux File System](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)<br/>
 This article is similar to the first one but includes a chart of the directories for visualization.
 
-3. Crash Course: [Memory & Storage](https://youtu.be/TQCr9RV7twk) | [Files & File Systems](https://youtu.be/KN8YgJnShPM) | [Compression](https://youtu.be/OtDxDvCpPL4)<br/>
+3. Crash Course: [Files & File Systems](https://youtu.be/KN8YgJnShPM)<br/>
+Crash course is a really great youtube channel for learning many things. I highlighted a few videos from their computer science course related to our lesson this week.
+
+### Week 04
+1. [Beginner's Guide on Linux Memory Management](https://www.golinuxcloud.com/tutorial-linux-memory-management-overview/) | [Linux Memory Management](https://www.javatpoint.com/linux-memory-management)<br/>
+These two articles talk about linux memory management, from basic concept to paging and swapping.
+
+2.[Basics of Programming with C](https://opensource.com/article/20/8/c-programming-cheat-sheet) | [Write and Run C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br/>
+The first article explains all the basic knowledge we need to know working with C and the second article is a step-by-step tutorial on how to actually write and run it in linux. Both include screenshot example to make it easier.
+
+3. [C pointers (1)](https://www.w3schools.com/c/c_pointers.php) | [C pointers (2)](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/) | [C pointers (3)](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)<br/>
+I find all of these helpful for understanding C pointers. The first one is just a short explanation on how to create the pointer, reference, and dereference. The second one includes more examples and starts talking about the different types of pointer, arithmetic & array for starter. Those two pages are probably enough for what we learn in class, but if you're curious and want a more comprehensive explanation, the third link is for you.
+
+4. [What is Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile) | [Makefile Tutorial by Example](https://makefiletutorial.com/)<br/>
+These two articles explain everything about Makefile and tutorial on how to use it, useful for this week's pop quiz.
+
+5. Crash Course: [Memory & Storage](https://youtu.be/TQCr9RV7twk) | [Compression](https://youtu.be/OtDxDvCpPL4)<br/>
 Crash course is a really great youtube channel for learning many things. I highlighted a few videos from their computer science course related to our lesson this week. 
