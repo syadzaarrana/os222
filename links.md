@@ -69,4 +69,11 @@ I find all of these helpful for understanding C pointers. The first one is just 
 These two articles explain everything about Makefile and tutorial on how to use it, useful for this week's pop quiz.
 
 5. Crash Course: [Memory & Storage](https://youtu.be/TQCr9RV7twk) | [Compression](https://youtu.be/OtDxDvCpPL4)<br/>
-Crash course is a really great youtube channel for learning many things. I highlighted a few videos from their computer science course related to our lesson this week. 
+Crash course is a really great youtube channel for learning many things. I highlighted a few videos from their computer science course related to our lesson this week.
+
+### Week 05
+1. [Virtual Memory in OS (1)](https://www.techtarget.com/searchstorage/definition/virtual-memory) | [Virtual Memory in OS (2)](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) [Virtual Memory in OS (3)](https://www.guru99.com/virtual-memory-in-operating-system.html)<br/>
+These articles higlights important points of virtual memory in Operating Systems, including its advantages and disadvantages.
+
+2. GeeksforGeeks Video: [First Fit](https://youtu.be/RZ6674-mjrQ) | [Best Fit](https://youtu.be/TQSVMBsK1kk) | [Worst Fit](https://youtu.be/fQY2FVhDu9k)<br/>
+These videos explain the implementation and example of memory allocation methods. 
