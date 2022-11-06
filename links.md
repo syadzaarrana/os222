@@ -77,3 +77,11 @@ These articles higlights important points of virtual memory in Operating Systems
 
 2. GeeksforGeeks Video: [First Fit](https://youtu.be/RZ6674-mjrQ) | [Best Fit](https://youtu.be/TQSVMBsK1kk) | [Worst Fit](https://youtu.be/fQY2FVhDu9k)<br/>
 These videos explain the implementation and example of memory allocation methods. 
+
+### Week 06
+1. [What is process in Linux?](https://www.educative.io/answers/what-is-a-process-in-linux) | [Processes in Linux/Unix](https://www.geeksforgeeks.org/processes-in-linuxunix/)<br/>
+These articles are concise basic explanation on processes in Linux, both include examples.
+
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br/>
+This article simulate the fork() system call in C and explains its difference with exec().
+
