@@ -38,5 +38,9 @@ ZCZC W05 15  L40 TXT/ related in general
 ZCZC W06 95  L02 ZOOM meetings related
 ZCZC W06 100 L99 Face-to-face lecture
 ZCZC W06 15  L05 Quiz related including studying
-ZCZC W06 60  L09 Assignment in General, Week 5
+ZCZC W06 60  L09 Assignment in General, Week 6
+ZCZC W07 95  L02 ZOOM meetings related
+ZCZC W07 100 L99 Face-to-face lecture
+ZCZC W07 15  L05 Quiz related including studying
+ZCZC W07 180 L09 Assignment in General, Week 7
 

@@ -85,3 +85,9 @@ These articles are concise basic explanation on processes in Linux, both include
 2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br/>
 This article simulate the fork() system call in C and explains its difference with exec().
 
+### Week 07
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br/>
+A brief overview of process synchronization in linux.
+2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br/>
+Compact explanation of deadlocks, includes a video version.
+3. [Process Synchronization Youtube Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)<br/>
