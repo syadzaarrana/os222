@@ -88,6 +88,16 @@ This article simulate the fork() system call in C and explains its difference wi
 ### Week 07
 1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br/>
 A brief overview of process synchronization in linux.
+
 2. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br/>
 Compact explanation of deadlocks, includes a video version.
+
 3. [Process Synchronization Youtube Playlist](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)<br/>
+
+### Week 08
+1. [LFS BOOK](https://www.linuxfromscratch.org/lfs/view/11.2/)<br/>
+It's really all we need for week 8 assignments.
+
+2. [Process Scheduling in Linux](https://medium.com/geekculture/process-scheduling-in-linux-592028a5d545)<br/>
+Decent explanation on this week's topic, process scheduling.
+

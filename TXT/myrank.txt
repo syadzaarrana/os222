@@ -17,4 +17,7 @@ ZCZC W06 bonaventuragal
 ZCZC W07 christophernw
 ZCZC W07 danenherdi
 ZCZC W07 dapulmh
+ZCZC W08 dianisa
+ZCZC W08 divanyh
+ZCZC W08 eldiralps
 
